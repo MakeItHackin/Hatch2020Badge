@@ -2,6 +2,9 @@
 
 Thank you for being interested in this year's Hudson Alpha Tech Challenge Badge!!!  
 
+View my YouTube video for a quick demo and overview:  
+https://www.youtube.com/watch?v=0dqjWGFenuU
+
 The badges were designed by Andrew Denio and sponsored by Hudson Alpha.  
 
 More information will come after HATCH weekend.  
