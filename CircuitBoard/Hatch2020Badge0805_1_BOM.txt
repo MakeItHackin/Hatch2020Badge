@@ -1,0 +1,32 @@
+Partlist exported from C:/Users/Andrew/Documents/EAGLE/projects/HATCH2020Badge/Hatch2020Badge0805_1.sch at 3/8/2020 4:19 PM
+
+Part    Value          Device         Package    Description                POPULARITY SPICEPREFIX
+C1      22u            C-USC0805      C0805      CAPACITOR, American symbol 63         C          
+C2      4.7u           C-USC0805      C0805      CAPACITOR, American symbol 63         C          
+IC1     4017D          4017D          SO16       COUNTER/DIVIDER            0                     
+IC2     LM555D         LM555D         SO08       TIMER                                            
+LED_A1                 LEDSML0805     SML0805    LED                        17                    
+LED_A2                 LEDSML0805     SML0805    LED                        17                    
+LED_A3                 LEDSML0805     SML0805    LED                        17                    
+LED_A4                 LEDSML0805     SML0805    LED                        17                    
+LED_A5                 LEDSML0805     SML0805    LED                        17                    
+LED_A6                 LEDSML0805     SML0805    LED                        17                    
+LED_A7                 LEDSML0805     SML0805    LED                        17                    
+LED_A8                 LEDSML0805     SML0805    LED                        17                    
+LED_A9                 LEDSML0805     SML0805    LED                        17                    
+LED_A10                LEDSML0805     SML0805    LED                        17                    
+POWER   3PINSWITCHMINI 3PINSWITCHMINI 3PINMINI                                                    
+R1      22k            R-US_R0805     R0805      RESISTOR, American symbol  85         R          
+R4      22k            R-US_R0805     R0805      RESISTOR, American symbol  85         R          
+R13     100            R-US_R0805     R0805      RESISTOR, American symbol  85         R          
+R14     100            R-US_R0805     R0805      RESISTOR, American symbol  85         R          
+R15     100            R-US_R0805     R0805      RESISTOR, American symbol  85         R          
+R16     100            R-US_R0805     R0805      RESISTOR, American symbol  85         R          
+R17     100            R-US_R0805     R0805      RESISTOR, American symbol  85         R          
+R18     100            R-US_R0805     R0805      RESISTOR, American symbol  85         R          
+R19     100            R-US_R0805     R0805      RESISTOR, American symbol  85         R          
+R20     100            R-US_R0805     R0805      RESISTOR, American symbol  85         R          
+R21     100            R-US_R0805     R0805      RESISTOR, American symbol  85         R          
+R22     100            R-US_R0805     R0805      RESISTOR, American symbol  85         R          
+SPEED   3PINSWITCHMINI 3PINSWITCHMINI 3PINMINI                                                    
+U$1     2032NO_FP      2032NO_FP      2032_NO_FP                                                  
