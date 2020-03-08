@@ -10,3 +10,17 @@ The badge is in the shape of the Hudson Alpha logo.  It features a fully functio
 
 If you have any questions or comments, please initiate an 'Issue' on github and I will answer as soon as I can.
 
+Below are the components that can be soldered onto the badge for functionality:
+CR2032 Battery and Holder
+555 Timer
+4017 Decade Counter
+100 ohm 0805 resistors 
+0805 LEDs
+Two switches
+Two capacitors (for changing speed)
+Two 22kohm resistors for 555 timer
+
+
+
+
+
